@@ -1,26 +1,88 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="417ef855-bc9e-44f0-af0c-7b533a3a0cb3" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="JsBowerSettings">
     <node-interpreter value="project" />
     <bower-package value="" />
     <bower.json value="" />
   </component>
-  <component name="JsFlowSettings">
-    <service-enabled>true</service-enabled>
-    <exe-path />
-    <other-services-enabled>true</other-services-enabled>
-    <auto-save>true</auto-save>
-  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2lD4h3W0Vf0zJvGMexpOQ97V1Zl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{}</component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/sebas/WebstormProjects/applyMappings&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\IntelliJ IDEA 2024.1.4\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration>C:\Users\sebas\AppData\Roaming\Subversion</configuration>
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="417ef855-bc9e-44f0-af0c-7b533a3a0cb3" name="Changes" comment="" />
+      <created>1724701428831</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724701428831</updated>
+      <workItem from="1724701429949" duration="300000" />
+      <workItem from="1724770305947" duration="1184000" />
+      <workItem from="1724939541587" duration="592000" />
+      <workItem from="1725096999756" duration="592000" />
+      <workItem from="1725174703229" duration="592000" />
+      <workItem from="1725292565549" duration="167000" />
+      <workItem from="1725292741077" duration="2000" />
+      <workItem from="1725292749302" duration="13000" />
+      <workItem from="1725371589391" duration="1164000" />
+      <workItem from="1725460736060" duration="11000" />
+      <workItem from="1725548696058" duration="143000" />
+      <workItem from="1725632649574" duration="585000" />
+      <workItem from="1725695566259" duration="580000" />
+      <workItem from="1725781557186" duration="585000" />
+      <workItem from="1725814557974" duration="4000" />
+      <workItem from="1725866756759" duration="115000" />
+      <workItem from="1725951942887" duration="580000" />
+      <workItem from="1725976296443" duration="3000" />
+      <workItem from="1726043457010" duration="1000" />
+      <workItem from="1726043467406" duration="89000" />
+      <workItem from="1726128415828" duration="1160000" />
+      <workItem from="1726232147445" duration="579000" />
+      <workItem from="1726302607409" duration="594000" />
+      <workItem from="1726383002858" duration="582000" />
+      <workItem from="1726418164870" duration="582000" />
+      <workItem from="1726500815597" duration="593000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
